@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0f172a;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    padding: 20px;
+}
+
+.card {
+    background-color: #1e293b;
+    width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.alert {
+    color: red;
+    font-weight: bold;
+}
+
+.safe {
+    color: lightgreen;
+    font-weight: bold;
+}
