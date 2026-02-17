@@ -23,4 +23,4 @@ async function fetchThreatData() {
 }
 
 fetchThreatData();
-setInterval(fetchThreatData, 5000);
+setInterval(fetchThreatData, 8000);
